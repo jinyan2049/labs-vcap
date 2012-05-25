@@ -1,18 +1,15 @@
-[submodule "services"]
-	path = services
-	url = ./labs-vcap-services.git
-[submodule "tests"]
-	path = tests
-	url = ./labs-vcap-tests.git
-[submodule "java"]
-	path = java
-	url = ./labs-vcap-java.git
-[submodule "uaa"]
-	path = uaa
-	url = ./labs-uaa.git
+#[submodule "services"]
+#	path = services
+#	url = ./labs-vcap-services.git
+#[submodule "tests"]
+#	path = tests
+#	url = ./labs-vcap-tests.git
+#[submodule "java"]
+#	path = java
+#	url = ./labs-vcap-java.git
+#[submodule "uaa"]
+#	path = uaa
+#	url = ./labs-uaa.git
 [submodule "acm"]
 	path = acm
-	url = ./labs-acm.git
-[submodule "test-acm"]
-	path = test-acm
 	url = ../labs-acm.git
