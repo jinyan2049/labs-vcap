@@ -13,3 +13,6 @@
 [submodule "acm"]
 	path = acm
 	url = ./labs-acm.git
+[submodule "test-acm"]
+	path = test-acm
+	url = ../labs-acm.git
